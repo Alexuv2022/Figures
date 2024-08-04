@@ -1,4 +1,4 @@
 package Figures;
 
-public class Pentagon {
+public class Pentagon extends Figure{
 }

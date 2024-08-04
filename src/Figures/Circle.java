@@ -1,4 +1,4 @@
 package Figures;
 
-public class Circle {
+public class Circle extends Figure{
 }

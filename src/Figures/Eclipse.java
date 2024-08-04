@@ -1,4 +1,4 @@
 package Figures;
 
-public class Eclipse {
+public class Eclipse extends Figure{
 }
